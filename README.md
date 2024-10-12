@@ -3,7 +3,7 @@
 ## Description
 This project aims to analyze Starbucks' sales performance across various locations in New York City, with a focus on month-on-month (MoM) sales growth, order patterns, and product quantities sold. The dashboard provides actionable insights into store-level performance and sales dynamics using visualizations and KPIs.
 
-## Video Link: https://drive.google.com/file/d/1lSZhFYIHhp2njTH2FOlbft2Nqio3Q-zd/view?usp=sharing
+## Video Link: https://drive.google.com/file/d/1lSZhFYIHhp2njTH2FOlbft2Nqio3Q-zd/view?usp=sharing](https://drive.google.com/file/d/1a-LXLCTcqL2PGLBzHq6oelRkoJ0AyfUL/view?usp=sharing
 
 ## KPI's Requirements
 1. **Total Sales Analysis:**
